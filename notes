@@ -14,6 +14,19 @@ tkinter(for creating GUI
 
 ML and CV(computer vision) are sub-fields of AI
 
+CV deals with how the computer can gain high level of understanding of digital images
+Technologies that use CV include self-driving cars(used as camera for object detection).
+instagram, and other apps that offers the enhacement image processing.
+
+!. How computer see images:
+-computer see images as a set of pixels.
+-pixels are number
+- colours available in CV- it uses RGB
+
+Kernel and Convolution
+-kernel is same as matrix(table of numbers);
+-convolution is a math operation(slide kernel on the image inorder to modify it
+
 
 
 
