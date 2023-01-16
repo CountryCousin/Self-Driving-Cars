@@ -10,6 +10,7 @@ BeautifulSoup
 Pillow(image manipulation)
 MoviePy(for video editing, video processing)
 tkinter(for creating GUI
+Webots 
 
 
 ML and CV(computer vision) are sub-fields of AI
@@ -26,6 +27,23 @@ instagram, and other apps that offers the enhacement image processing.
 Kernel and Convolution
 -kernel is same as matrix(table of numbers);
 -convolution is a math operation(slide kernel on the image inorder to modify it
+
+
+Webots is an open source and multi-platform desktop application used to simulate robots. It provides a complete development environment to model, program and simulate robots.
+
+Main features:
+
+Fast Prototyping
+
+Wide variety of simulations (two-wheeled, industrial arms, drones, underwater vehicles, bipeds, ...)
+
+Realistic physics engine (ODE)
+
+Great documentation
+
+Quality (peer reviewed code submissions)
+
+It has been designed for a professional use, and it is widely used in industry, education and research. Cyberbotics Ltd. maintains Webots as its main product continuously since 1998.
 
 
 

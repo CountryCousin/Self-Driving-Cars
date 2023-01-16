@@ -19,7 +19,7 @@ def main():
     camera.enable(timestep)  # timestep
 
     # Threshold display
-    display_th = Display("display_th")
+    # display_th = Display("display_th")
 
     # yellow_pixel = np.array([95, 187, 203])  # road yellow (BGR format)
     yellow_pixel = np.array([25, 127, 127])  # HSV
@@ -41,7 +41,7 @@ def main():
         print(f"INFO: normalized column {normalized_column:.2f}")
         print(f"INFO: angle {angle:.2f}")
 
-        utils.display_binary_image(display_th, binary_image, average_column)
+        # utils.display_binary_image(display_th, binary_image, average_column)
 
         robot.setSteeringAngle(angle)
         robot.setCruisingSpeed(50)

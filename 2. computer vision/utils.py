@@ -96,7 +96,7 @@ def display_binary_image(display_th, binary_image, average_column):
     # Display threshold image
     image_ref = display_th.imageNew(
         binary_image_gbra.tobytes(),
-        Display.RGB,
+        # Display.RGB,
         width=binary_image_gbra.shape[1],
         height=binary_image_gbra.shape[0],
     )
