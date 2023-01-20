@@ -1,7 +1,10 @@
 from numpy.lib.function_base import average
+from controller import Controller
 from controller import Robot
 from controller import Camera
-from controller import Display
+from controller import Camera
+
+from controller import Display 
 from vehicle import Car
 import numpy as np
 import cv2
