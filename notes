@@ -47,8 +47,33 @@ It has been designed for a professional use, and it is widely used in industry, 
 
 
 
+What is machine Learning:
 
 AI- Allows machines to simulate Human Behaviour;
 
 ML - Allows a machine to learn from Data.
 ML is a subcategory in AI.
+
+ML algorithms build models based on a sample data.
+
+Section Outline:
+
+Train and Predict
+
+ML Categories(supervised, unsupervised and Reinforecement Learning):
+
+Types of supervised Learning are Classification(eg prediction to see if a picture is a dog or a cat) and Regression(Prediction of number based on the relationship it shares with other parameters eg linear regression for hooks Law).
+
+Types of unsupervised Learning are clustering(uses K-nearest neighbour algorithms)
+
+Types of Reinforcemnent Learning is Q-learning eg of its implimentation is alpha GO
+
+ML for self-driven cars
+1. Obeject Detection and classification eg stop signs, forward signs etc
+2. Lane Prediction eg Path
+3. Traffic Lights.
+
+
+
+
+
