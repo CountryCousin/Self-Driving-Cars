@@ -74,6 +74,18 @@ ML for self-driven cars
 3. Traffic Lights.
 
 
+Feature Enginnering:
+This is the process of using domain knowledge to extract feautures(charateristics, properties attributes) from from raw data
+Types of Feauture Engineering are custom and general(eg HOG ie histogram of oriented gradient) feauture engineering
 
+HOG:
+Histogram of Oriented Gradients is a feautre description used in computer vision for object detection and classification.
+Main Idea of HOG:
+Local objects appearances and shape can be described by the distribution of intensity or edge directions
+
+
+SVM(support Vector Machine):
+SVM tires to find the decision boundary that maximizes the distance to support vectors:
+In SVM we analyze points that closest to the descision boundary
 
 
