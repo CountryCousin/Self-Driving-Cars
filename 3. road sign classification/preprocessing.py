@@ -3,7 +3,7 @@ from pathlib import Path
 import xml.dom.minidom
 import cv2
 from skimage.transform import rescale, resize 
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split 
 from PIL import Image
 import numpy as np
 import pickle
