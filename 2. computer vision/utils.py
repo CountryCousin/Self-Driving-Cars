@@ -1,5 +1,4 @@
 from numpy.lib.function_base import average
-# from controller import Controller #this is another python lib
 from controller import Robot
 from controller import Camera
 from controller import Display 
@@ -16,7 +15,7 @@ def profile(fnc):
 
     def inner(*args, **kwargs):
 
-        pr = cProfile.Profile()
+        pr = cProfile.Profile() 
         pr.enable()
         retval = fnc(*args, **kwargs)
         pr.disable()

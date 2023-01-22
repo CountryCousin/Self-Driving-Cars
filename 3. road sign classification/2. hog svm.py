@@ -100,7 +100,7 @@ if __name__ == "__main__":
     print(
         sklearn.metrics.classification_report(
             y_test_le, y_pred_le, target_names=label_enc.classes_
-        )
+        ) 
     )
 """
     Percentage correct:  98.55072463768116
